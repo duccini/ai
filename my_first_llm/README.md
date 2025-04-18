@@ -15,6 +15,8 @@ Palavras desconhecidas não são ignoradas — são divididas em sub-palavras ou
 
 No caso do tiktoken, o modelo GPT-2 usa um vocabulário BPE com cerca de 50 mil tokens.
 
+<br>
+
 ---
 
 🧪 Testando "Akwirw ier"
@@ -49,7 +51,9 @@ Explicação:
 
 220: ier – com o espaço no início, " ier" é um token comum.
 
--
+<br>
+
+---
 
 🔍 Porque "Akwirw ier" é quebrada assim?
 
