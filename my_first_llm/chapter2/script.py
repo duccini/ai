@@ -17,7 +17,6 @@ word = "Akwirw ier"
 word2 = "Guilherme"
 
 intergers_word = tokenizer.encode(word2)
-print(intergers_word)
 
 # o método tokenizer.decode() espera uma sequência de inteiros (lista), e não um único inteiro
 for w in intergers_word:
